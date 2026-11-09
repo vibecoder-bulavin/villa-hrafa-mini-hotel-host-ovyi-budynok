@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://vibecoder-bulavin.github.io/villa-hrafa-mini-hotel-host-ovyi-budynok/sitemap.xml
